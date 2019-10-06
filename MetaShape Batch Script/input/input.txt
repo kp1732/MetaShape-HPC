@@ -1,1 +1,0 @@
-The files in this directory are a sample data set for MetaShape 
